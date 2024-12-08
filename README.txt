@@ -1,1 +1,2 @@
-This project gives a short introduction about 'git pull' and 'git fetch'. 
+This project gives a short introduction.
+It is a demo for showing the differences between the git commands 'pull' and 'fetch'
